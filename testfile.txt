@@ -1,2 +1,6 @@
 test git
+<<<<<<< HEAD
 t
+=======
+add merge
+>>>>>>> de6d1b243cb1933f052224f9d683dd48ffd57e7d
